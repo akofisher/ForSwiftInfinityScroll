@@ -1,1 +1,1 @@
-# ForSwiftInfinityScroll
+# Infinity Scroll Project
